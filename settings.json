@@ -2,13 +2,13 @@
     "workbench.colorTheme": "Tokyo Night",
     "workbench.iconTheme": "material-icon-theme",
     "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[css]": {
-        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
